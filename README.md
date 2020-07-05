@@ -21,8 +21,9 @@ A idéia principal é ter um kanban simples que possa ser implantado em todos os
 - Coloque os arquivos no seu projeto
 - De a permissão nas classes (a permissão da mesma forma que você dá quando cria um form por exemplo):
 - Adicione a classe "ProjetoFormList" no menu para ter acesso
-
-
+## Imagens do projeto
+<img src="https://github.com/andre-gasparin/AdiantiKanban/blob/master/img-exemplo/e1.png?raw=true" style="width:45%">
+<img src="https://github.com/andre-gasparin/AdiantiKanban/blob/master/img-exemplo/e2.png?raw=true">
 ## Configuração para Desenvolvimento
 
 Caso queira implementar algo no sistema, utilize os padrões do Adianti Framework, ficaremos felizes com sua participação!
