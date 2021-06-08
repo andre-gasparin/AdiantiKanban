@@ -1,12 +1,10 @@
 
 # Gerenciador de projetos com kanban  PHP / Adianti
-> Um opensource criado por <a href="https://controle.pro/" target="_blank" rel="noopener">controle.pro</a> com e para Adianti Framework.
+> Um opensource criado para Adianti Framework.
 
 <p align="center">
 <img src="https://img.shields.io/badge/VERSÃO-1.0.0-green">
 <img src="https://img.shields.io/badge/Licença-GNU 3.0-success">
-<img src="https://img.shields.io/badge/PHP-GasparimSat-blue">
-<img src="https://img.shields.io/badge/PHP-ControlePro-blue">
 <img src="https://img.shields.io/badge/PHP-Adianti-blue">
 <img src="https://img.shields.io/badge/PHP->7.2-blueviolet">
 </p>
